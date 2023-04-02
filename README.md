@@ -7,9 +7,9 @@
     pie chart of actions for each user
     # of entries
 
-# 2. Clean code and prepare google notebook
+# 2. Clean code and prepare notebook output + description.
 
-# 3. Use alternative model - GRU
+# 3. Use alternative model - GRU -- CANCELLED
 
 # 4. create second test, where you can specify features for the prediciotn (eg define tasks as hard)
 
